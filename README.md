@@ -1,6 +1,8 @@
 # Meds24x7
 Second_Year_Mini_Project
 
+Meds24x7 is a compact and focused online pharmacy project designed for seamless medication management. This mini-project emphasizes simplicity and functionality, providing users with an intuitive interface to order essential medications efficiently.
+
 HELLO VISITERS,
 
 WELCOME TO E PHARMACY
