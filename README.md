@@ -14,4 +14,4 @@ Step4: Set up your Server by selecting the Tomcat Version 8.5 in your sts.
 Step5: After Setting up check the dependencies in pom.xml file.        
 Step6: Then all Set!!! You can now run this application.
 
-Static Web Page Live Demo : https://quiet-conkies-bf0358.netlify.app/
+Static Web Page Live Demo : https://meds24x7.netlify.app/
